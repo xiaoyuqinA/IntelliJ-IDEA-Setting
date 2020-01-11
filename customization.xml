@@ -10,7 +10,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Refactorings.QuickListPopupAction" is_action="true" action_type="1" position="8">
+    <group value="RenameElement" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
