@@ -1,0 +1,15 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
+    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
+    <notification groupId="Indexing" />
+    <notification groupId="Plugins AutoSwitch" />
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Webpack" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

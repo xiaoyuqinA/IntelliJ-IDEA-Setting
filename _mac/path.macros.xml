@@ -1,0 +1,9 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="VERSION" value="1.0.1" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>

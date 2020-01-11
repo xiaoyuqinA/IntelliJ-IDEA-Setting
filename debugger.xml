@@ -1,0 +1,22 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+    </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="oracle">
+        <configuration>
+          <option name="steppingPauseAtBegin" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

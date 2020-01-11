@@ -1,0 +1,24 @@
+<templateSet group="PHP">
+  <template name="ptr" value="print_r($END$);" description="print_r" toReformat="false" toShortenFQNames="true" />
+  <template name="php" value="&lt;?php $END$?&gt;" description="php tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="phpe" value="&lt;?php echo $$$END$;?&gt;" description="php echo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="phpf" value="&lt;?php foreach($$$END$ as $k =&gt; $v){?&gt;&#10;    &#10;&lt;?php }?&gt;" description="php foreach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HAML" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,256 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Behat">
+        <behat_settings>
+          <BehatSettings />
+        </behat_settings>
+      </component>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages>
+            <pattern pattern="roave/security-advisories" />
+          </excludedPackages>
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+        <composerUpdateOptions />
+      </component>
+      <component name="ComposerSettings">
+        <execution>
+          <executable />
+        </execution>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="Git.Settings">
+        <option name="PUSH_AUTO_UPDATE" value="true" />
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="PhpUnhandledExceptionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="MarkdownNavigator.ProfileManager" plain-text-search-scope="Project Files" />
+      <component name="MarkdownProjectSettings" wasCopied="true">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.25" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="0" emojiImages="0">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="ADMONITION_EXT" value="false" />
+            <option name="ATTRIBUTES_EXT" value="false" />
+            <option name="COMMONMARK_LISTS" value="true" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="ENUMERATED_REFERENCES_EXT" value="false" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_LISTS" value="false" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="GITLAB_EXT" value="false" />
+            <option name="GITLAB_MATH_EXT" value="false" />
+            <option name="GITLAB_MERMAID_EXT" value="false" />
+            <option name="HEADER_ID_NON_ASCII_TO_LOWERCASE" value="false" />
+            <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="MACROS_EXT" value="false" />
+            <option name="NO_TEXT_ATTRIBUTES" value="false" />
+            <option name="PARSE_HTML_ANCHOR_ID" value="false" />
+            <option name="PLANTUML_FENCED_CODE" value="false" />
+            <option name="PUML_FENCED_CODE" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false" plantUmlConversion="0" mathConversion="-1">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+          <cssUriHistory />
+        </CssSettings>
+        <AnnotatorSettings targetHasSpaces="true" linkCaseMismatch="true" wikiCaseMismatch="true" wikiLinkHasDashes="true" notUnderWikiHome="true" targetNotWikiPageExt="true" notUnderSourceWikiHome="true" targetNameHasAnchor="true" targetPathHasAnchor="true" wikiLinkHasSlash="true" wikiLinkHasSubdir="true" wikiLinkHasOnlyAnchor="true" linkTargetsWikiHasExt="true" linkTargetsWikiHasBadExt="true" notUnderSameRepo="true" targetNotUnderVcs="false" linkNeedsExt="true" linkHasBadExt="true" linkTargetNeedsExt="true" linkTargetHasBadExt="true" wikiLinkNotInWiki="true" imageTargetNotInRaw="true" repoRelativeAcrossVcsRoots="true" multipleWikiTargetsMatch="true" unresolvedLinkReference="true" linkIsIgnored="true" anchorIsIgnored="true" anchorIsUnresolved="true" anchorLineReferenceIsUnresolved="true" anchorLineReferenceFormat="true" anchorHasDuplicates="true" abbreviationDuplicates="true" abbreviationNotUsed="true" attributeIdDuplicateDefinition="true" attributeIdNotUsed="true" footnoteDuplicateDefinition="true" footnoteUnresolved="true" footnoteDuplicates="true" footnoteNotUsed="true" macroDuplicateDefinition="true" macroUnresolved="true" macroDuplicates="true" macroNotUsed="true" referenceDuplicateDefinition="true" referenceUnresolved="true" referenceDuplicates="true" referenceNotUsed="true" referenceUnresolvedNumericId="true" enumRefDuplicateDefinition="true" enumRefUnresolved="true" enumRefDuplicates="true" enumRefNotUsed="true" enumRefLinkUnresolved="true" enumRefLinkDuplicates="true" simTocUpdateNeeded="true" simTocTitleSpaceNeeded="true" />
+        <HtmlExportSettings updateOnSave="false" parentDir="" targetDir="" cssDir="css" scriptDir="js" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetPathType="2" targetExt="" useTargetExt="false" noCssNoScripts="false" useElementStyleAttribute="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+      <component name="PhpRuntimeConfiguration">
+        <extensions>
+          <extension name="Ev" enabled="false" />
+          <extension name="SQLite" enabled="false" />
+          <extension name="SplType" enabled="false" />
+          <extension name="Zend OPcache" enabled="false" />
+          <extension name="ZendDebugger" enabled="false" />
+          <extension name="ZendUtils" enabled="false" />
+          <extension name="apcu" enabled="false" />
+          <extension name="bz2" enabled="false" />
+          <extension name="couchbase" enabled="false" />
+          <extension name="cubrid" enabled="false" />
+          <extension name="dba" enabled="false" />
+          <extension name="enchant" enabled="false" />
+          <extension name="fann" enabled="false" />
+          <extension name="ffmpeg" enabled="false" />
+          <extension name="gearman" enabled="false" />
+          <extension name="geoip" enabled="false" />
+          <extension name="gmagick" enabled="false" />
+          <extension name="gmp" enabled="false" />
+          <extension name="gnupg" enabled="false" />
+          <extension name="grpc" enabled="false" />
+          <extension name="http" enabled="false" />
+          <extension name="ibm_db2" enabled="false" />
+          <extension name="igbinary" enabled="false" />
+          <extension name="imagick" enabled="false" />
+          <extension name="imap" enabled="false" />
+          <extension name="inotify" enabled="false" />
+          <extension name="interbase" enabled="false" />
+          <extension name="intl" enabled="false" />
+          <extension name="judy" enabled="false" />
+          <extension name="ldap" enabled="false" />
+          <extension name="libevent" enabled="false" />
+          <extension name="libsodium" enabled="false" />
+          <extension name="memcache" enabled="false" />
+          <extension name="memcached" enabled="false" />
+          <extension name="meta" enabled="false" />
+          <extension name="ming" enabled="false" />
+          <extension name="mongo" enabled="false" />
+          <extension name="mongodb" enabled="false" />
+          <extension name="mqseries" enabled="false" />
+          <extension name="mssql" enabled="false" />
+          <extension name="mysql" enabled="false" />
+          <extension name="ncurses" enabled="false" />
+          <extension name="newrelic" enabled="false" />
+          <extension name="oauth" enabled="false" />
+          <extension name="oci8" enabled="false" />
+          <extension name="pdo_ibm" enabled="false" />
+          <extension name="pdo_pgsql" enabled="false" />
+          <extension name="pgsql" enabled="false" />
+          <extension name="pspell" enabled="false" />
+          <extension name="pthreads" enabled="false" />
+          <extension name="rar" enabled="false" />
+          <extension name="readline" enabled="false" />
+          <extension name="recode" enabled="false" />
+          <extension name="rrd" enabled="false" />
+          <extension name="snmp" enabled="false" />
+          <extension name="sqlsrv" enabled="false" />
+          <extension name="ssh2" enabled="false" />
+          <extension name="suhosin" enabled="false" />
+          <extension name="svn" enabled="false" />
+          <extension name="sybase" enabled="false" />
+          <extension name="tidy" enabled="false" />
+          <extension name="v8js" enabled="false" />
+          <extension name="wincache" enabled="false" />
+          <extension name="xhprof" enabled="false" />
+          <extension name="xsl" enabled="false" />
+          <extension name="yaml" enabled="false" />
+          <extension name="zend" enabled="false" />
+          <extension name="zmq" enabled="false" />
+        </extensions>
+      </component>
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="7" />
+      <component name="PhpXdebugProxy" port="9002" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="persi" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="/usr/bin/php" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.path.for.package.tslint" value="project" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="node.js.selected.package.tslint" value="" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.常规" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="YarnPnpManager">
+        <pnp-files />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
