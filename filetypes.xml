@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping ext="md" type="Markdown" />
       <mapping pattern="dev_20160324" type="Native" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".swp" type="PLAIN_TEXT" />
