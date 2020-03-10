@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern="dev_20160324" type="Native" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".swp" type="PLAIN_TEXT" />
@@ -9,6 +10,8 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
