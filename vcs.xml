@@ -38,6 +38,10 @@
           <option name="url" value="http://git.sixsir.com" />
           <option name="userName" value="persi" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitea.lz66.net" />
+          <option name="userName" value="PersiLiao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/C" />
