@@ -10,7 +10,6 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
