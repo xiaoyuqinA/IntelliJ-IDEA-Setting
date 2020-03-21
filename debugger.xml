@@ -12,9 +12,9 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="oracle">
+      <debugger id="kotlin_debugger">
         <configuration>
-          <option name="steppingPauseAtBegin" value="true" />
+          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
