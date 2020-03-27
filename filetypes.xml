@@ -12,6 +12,7 @@
       <mapping pattern=".swp" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="propeties" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern=".gitignore_global" type="Git file" />
