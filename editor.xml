@@ -22,6 +22,9 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern icon="important" case-sensitive="true" pattern="\b(todo|fixme)\b.*" />
+  </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
