@@ -10,6 +10,7 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".tags_sorted_by_file" type="PLAIN_TEXT" />
       <mapping pattern=".swp" type="PLAIN_TEXT" />
+      <mapping pattern="pipile" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="propeties" type="PLAIN_TEXT" />
