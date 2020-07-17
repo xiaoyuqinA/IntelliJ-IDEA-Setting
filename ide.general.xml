@@ -14,5 +14,7 @@
     <entry key="ide.suppress.double.click.handler" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
+    <entry key="SBT.system.in.process" value="true" />
   </component>
 </application>
