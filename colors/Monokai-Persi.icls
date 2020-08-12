@@ -289,6 +289,17 @@
         <option name="ERROR_STRIPE_COLOR" value="99ccff" />
       </value>
     </option>
+    <option name="DOCKER_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ea46ff" />
+      </value>
+    </option>
+    <option name="DOCKER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f22ef7" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="EL.BOUNDS">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
