@@ -9,4 +9,12 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="todo">
+      <option name="FOREGROUND" value="86ff36" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="ffe122" />
+    </pattern>
+  </component>
 </application>

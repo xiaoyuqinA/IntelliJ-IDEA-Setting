@@ -426,6 +426,23 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="807b14" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2d807f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_MARKUP">
+      <value>
+        <option name="BACKGROUND" value="495558" />
+      </value>
+    </option>
     <option name="JAVA_DOT">
       <value>
         <option name="FOREGROUND" value="f72671" />
@@ -441,6 +458,12 @@
       <value>
         <option name="FOREGROUND" value="f72671" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="238078" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
