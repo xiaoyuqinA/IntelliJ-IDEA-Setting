@@ -300,6 +300,12 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="128022" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="EL.BOUNDS">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
