@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="SPACES_WITHIN_ANGLE_BRACKETS" value="true" />
   </JavaCodeStyleSettings>
@@ -15,6 +16,8 @@
     <option name="SPACE_WITHIN_SYNCHRONIZED_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_CAST_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="KEEP_MULTIPLE_EXPRESSIONS_IN_ONE_LINE" value="true" />
+    <option name="WRAP_LONG_LINES" value="true" />
     <option name="SPACE_WITHIN_ANNOTATION_PARENTHESES" value="true" />
   </codeStyleSettings>
 </code_scheme>
