@@ -1,4 +1,4 @@
-<code_scheme name="Persi">
+<code_scheme name="Persi" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
@@ -12,6 +12,9 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="ENUM_CONSTANTS_WRAP" value="5" />
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
