@@ -5,6 +5,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
